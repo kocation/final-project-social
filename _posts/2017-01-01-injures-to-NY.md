@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Alla!"
+title: "Injures in NY"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
