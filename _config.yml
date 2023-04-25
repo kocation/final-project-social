@@ -10,7 +10,7 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           "New York Collisions"
+title:		           "NY News"
 description:	       "a dinamic blog slide in section about NY traffic collisions"
 author:              "Team X"
 
