@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vehicles"
+title: "Learning Resources"
 author: "Paul Le"
 categories: resources
 tags: [documentation,sample]
