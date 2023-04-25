@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pedestrians"
+title: "Getting Started"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
