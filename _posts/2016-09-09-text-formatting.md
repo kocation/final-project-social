@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "City of NY"
+title: "City"
 author: "Paul Le"
 categories: sample
 tags: [sample]
