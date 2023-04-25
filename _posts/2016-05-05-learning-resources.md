@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Vehicles"
+title: "Vehicles involved"
 author: "Paul Le"
 categories: resources
 tags: [documentation,sample]
