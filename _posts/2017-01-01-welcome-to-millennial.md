@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Prueba 2"
+title: "dd 2"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
