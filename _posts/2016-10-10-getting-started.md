@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Introduction"
-author: "Paul Le"
+author: "Fernando Pacini"
 categories: documentation
 tags: [documentation,sample]
 image: ny.jpg
