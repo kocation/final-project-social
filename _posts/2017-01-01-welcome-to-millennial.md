@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Traffic"
+title: "Prueba 2"
 author: "Paul Le"
 categories: documentation
 tags: [documentation,sample]
