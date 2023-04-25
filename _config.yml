@@ -11,8 +11,8 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "New York Collisions"
-description:	       "a minimalist Jekyll theme for running a blog or publication"
-author:              "Paul Le"
+description:	       "a dinamic blog slide in section about NY traffic collisions"
+author:              "Team X"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
 #feed:
