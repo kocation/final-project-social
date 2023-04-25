@@ -11,7 +11,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           "NY News"
-description:	       "a dinamic blog slide in section about NY traffic collisions"
+description:	       "a static blog slide in section about NY traffic collisions"
 author:              "Team X"
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
