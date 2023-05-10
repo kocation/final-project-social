@@ -4,6 +4,6 @@ title: "Introduction"
 author: "Fernando Pacini"
 categories: documentation
 tags: [documentation,sample]
-image: ny.jpg
+image: introduction.jpg
 ---
 
