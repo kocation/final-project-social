@@ -7,6 +7,13 @@ tags: [documentation,sample]
 image: introduction.jpg
 ---
 
+Dataset can be downloaded from:
+
+https://data.cityofnewyork.us/Public-Safety/Motor-Vehicle-Collisions-Crashes/h9gi-nx95
+
+
+-----------------------------------------------
+
 New York City, the metropolis that never sleeps, is home to a staggering 8.3 million people and is one of the most densely trafficked cities in the world. With over 1.9 million crashes recorded in the last decade, it's no secret that navigating the city's streets can be a daunting and sometimes dangerous experience. These crashes involve a wide range of vehicles and are caused by countless number of factors, from reckless driving to inclement weather conditions. However, while the exact reasons behind each crash may be difficult to discern, analyzing the trends and patterns in the data can provide valuable insights into the overall safety of New York City's roadways.
 In this report, we will dive deeper into the data and explore things such as which vehicles are most commonly involved in accidents, identify the primary reasons behind these crashes, and track how these trends have progressed over the years. We will also examine whether the number of incidents has decreased or increased over time and provide possible explanations for these findings. Through the use of visually stunning graphs and maps, we will paint a vivid picture of the traffic safety landscape in New York City, offering both professionals and a casual reader like you and me a comprehensive and engaging view of the city's traffic safety situation.
 
